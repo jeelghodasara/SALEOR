@@ -28,9 +28,9 @@ coverage/
 dist/
 *\.egg*
 # data
-/media/
+# /media/
 /node_modules/
-/static/
+# /static/
 
 # Environments
 .env
